@@ -16,8 +16,8 @@
 1. **Clone the Repository**:
 
    ```bash
-   [git clone https://github.com/satvik-vs/portscanner.git
-   cd anonbash-port-scanner
+   git clone https://github.com/satvik-vs/portscanner.git
+   cd portscanner
    ```
 
 2. **Make the Script Executable**:
