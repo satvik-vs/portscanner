@@ -16,7 +16,7 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/satvik-vs/anonbash-port-scanner.git
+   [git clone https://github.com/satvik-vs/portscanner.git
    cd anonbash-port-scanner
    ```
 
