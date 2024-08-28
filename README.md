@@ -11,6 +11,29 @@
 - **Estimated Completion Time**: Shows a live countdown timer for scan completion in MM:SS format, displayed in bold orange.
 - **Help Guide**: Offers an integrated help system with usage details, author information, and links.
 
+## Installation
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/satvik-vs/anonbash-port-scanner.git
+   cd anonbash-port-scanner
+   ```
+
+2. **Make the Script Executable**:
+
+   ```bash
+   chmod +x port_scanner.sh
+   ```
+
+3. **Run the Script**:
+
+   You can now run the script directly from the terminal.
+
+   ```bash
+   ./port_scanner.sh
+   ```
+
 ## Usage
 
 ### Basic Usage
@@ -50,13 +73,10 @@ For a complete overview of available options and usage, use the help switch:
 
 **Satvik (An0n B@sH)**  
 - [GitHub](https://github.com/satvik-vs)  
-
-- [Website](https://satvik.live)
-
+- [Website](https://satvik.live)  
 - [contact@satvik.live](mailto:contact@satvik.live)
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
